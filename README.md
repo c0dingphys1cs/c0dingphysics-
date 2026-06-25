@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🐍 Learning Python
 
-<!--
-**Swatidevi369/Swatidevi369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A collection of my Python learning journey — 
+notes, exercises, and mini projects.
 
-Here are some ideas to get you started:
+## 📁 What's Inside
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Basics → variables, loops, functions
+- Projects → small programs I built
+- Notes → key concepts I learned
+
+## 🛠️ Topics Covered
+
+- Data types & variables
+- Conditionals & loops
+- Functions
+- Lists, dictionaries
+- File handling
+
+## 🚀 How to Run
+
+`python
+python filename.py
